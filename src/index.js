@@ -1,0 +1,16 @@
+import './styles.css'
+//images
+import './assets/chevron.svg'
+import './assets/dave-hoefler-okUIdo6NxGo-unsplash.jpg'
+import './assets/eugene-golovesov-EXdXp7Z4X4w-unsplash.jpg'
+import './assets/finding-dan-dan-grinwis-O35rT6OytRo-unsplash.jpg'
+import './assets/jakob-owens-EwRM05V0VSI-unsplash.jpg'
+import './assets/jennifer-reynolds-_8HI5xf4TkE-unsplash.jpg'
+import './assets/kellen-riggin-SIBOiXKg0Ds-unsplash.jpg'
+import './assets/rafael-hoyos-weht-zhkAp8DGkxw-unsplash.jpg'
+import './assets/sherman-yang-VBBGigIuaDY-unsplash.jpg'
+import './assets/silas-baisch-Wn4ulyzVoD4-unsplash.jpg'
+import './assets/sonya-romanovska-wzdXhyi3AiM-unsplash.jpg'
+import './assets/vincentiu-solomon-ln5drpv_ImI-unsplash.jpg'
+//JS files
+import './app'
